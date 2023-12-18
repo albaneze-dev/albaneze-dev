@@ -6,7 +6,7 @@ Rafael Albaneze's Portfolio
 🌱 I'm currently focused on learning React Native, diving into the world of mobile app development.
 
 📫 You can reach me at: albaneze.ra@gmail.com
-:mongodb:
+
 Portfolio
 Explore my portfolio to see some of the projects I've worked on: [Rafael's Portfolio](https://portfolio-albaneze.netlify.app/)
 
